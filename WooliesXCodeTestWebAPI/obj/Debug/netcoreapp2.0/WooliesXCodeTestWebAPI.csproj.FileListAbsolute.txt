@@ -1,0 +1,4 @@
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\obj\Debug\netcoreapp2.0\WooliesXCodeTestWebAPI.csprojAssemblyReference.cache
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\obj\Debug\netcoreapp2.0\WooliesXCodeTestWebAPI.AssemblyInfoInputs.cache
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\obj\Debug\netcoreapp2.0\WooliesXCodeTestWebAPI.AssemblyInfo.cs
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\obj\Debug\netcoreapp2.0\WooliesXCodeTestWebAPI.csproj.CoreCompileInputs.cache

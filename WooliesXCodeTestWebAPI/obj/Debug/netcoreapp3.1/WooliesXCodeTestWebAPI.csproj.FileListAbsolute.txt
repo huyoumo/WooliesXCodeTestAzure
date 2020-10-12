@@ -1,0 +1,21 @@
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\bin\Debug\netcoreapp3.1\WooliesXCodeTestWebAPI.exe
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\bin\Debug\netcoreapp3.1\WooliesXCodeTestWebAPI.deps.json
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\bin\Debug\netcoreapp3.1\WooliesXCodeTestWebAPI.runtimeconfig.json
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\bin\Debug\netcoreapp3.1\WooliesXCodeTestWebAPI.runtimeconfig.dev.json
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\bin\Debug\netcoreapp3.1\WooliesXCodeTestWebAPI.dll
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\bin\Debug\netcoreapp3.1\WooliesXCodeTestWebAPI.pdb
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\obj\Debug\netcoreapp3.1\WooliesXCodeTestWebAPI.csprojAssemblyReference.cache
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\obj\Debug\netcoreapp3.1\WooliesXCodeTestWebAPI.AssemblyInfoInputs.cache
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\obj\Debug\netcoreapp3.1\WooliesXCodeTestWebAPI.AssemblyInfo.cs
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\obj\Debug\netcoreapp3.1\WooliesXCodeTestWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\obj\Debug\netcoreapp3.1\WooliesXCodeTestWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\obj\Debug\netcoreapp3.1\WooliesXCodeTestWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WooliesXCodeTestWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WooliesXCodeTestWebAPI.StaticWebAssets.xml
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\obj\Debug\netcoreapp3.1\WooliesXCodeTestWebAPI.dll
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\obj\Debug\netcoreapp3.1\WooliesXCodeTestWebAPI.pdb
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\obj\Debug\netcoreapp3.1\WooliesXCodeTestWebAPI.genruntimeconfig.cache
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTestWebAPI\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\WooliesXCodeTestWebAPI20201011202351 - Web Deploy\profile.arm.json

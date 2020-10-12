@@ -1,0 +1,9 @@
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTest.BusinessLogic\bin\Release\netcoreapp3.0\WooliesXCodeTest.BusinessLogic.deps.json
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTest.BusinessLogic\bin\Release\netcoreapp3.0\WooliesXCodeTest.BusinessLogic.dll
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTest.BusinessLogic\bin\Release\netcoreapp3.0\WooliesXCodeTest.BusinessLogic.pdb
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTest.BusinessLogic\obj\Release\netcoreapp3.0\WooliesXCodeTest.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTest.BusinessLogic\obj\Release\netcoreapp3.0\WooliesXCodeTest.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTest.BusinessLogic\obj\Release\netcoreapp3.0\WooliesXCodeTest.BusinessLogic.AssemblyInfo.cs
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTest.BusinessLogic\obj\Release\netcoreapp3.0\WooliesXCodeTest.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTest.BusinessLogic\obj\Release\netcoreapp3.0\WooliesXCodeTest.BusinessLogic.dll
+C:\Users\Youmo\source\repos\WooliesXCodeTestAzure\WooliesXCodeTest.BusinessLogic\obj\Release\netcoreapp3.0\WooliesXCodeTest.BusinessLogic.pdb
