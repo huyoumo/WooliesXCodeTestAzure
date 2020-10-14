@@ -10,10 +10,9 @@ namespace WooliesXCodeTestWebAPI.Controllers
     public class UserController : ControllerBase
     {
         #region Public
-        public UserController() 
+        public UserController(IUserHandler userHandler) 
         {
-            // ideally IOC will take care of this by passing in IUserHandler into the constructor
-            _userHandler = new UserHandler() as IUserHandler;
+            _userHandler = userHandler;
         }
 
         [HttpGet]
